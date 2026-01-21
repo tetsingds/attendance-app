@@ -17,22 +17,7 @@ ALLOWED_DISTANCE = 300  # meters
 IST = pytz.timezone("Asia/Kolkata")
 
 USERS = {
-    "Ajad": {"password": "1234"},
-    "Jitender": {"password": "1234"},
-    "RamNiwas": {"password": "1234"},
-    "Lakshman": {"password": "1234"},
-    "premPatil": {"password": "1234"},
-    "Mithlesh": {"password": "1234"},
-    "Dharmendra": {"password": "1234"},
-    "Deepak": {"password": "1234"},
-    "Rajan": {"password": "1234"},
-    "Shyamjeesharma": {"password": "1234"},
-    "Surjesh": {"password": "1234"},
-    "Bittu": {"password": "1234"},
-    "Prakashkumarjha": {"password": "1234"},
     "amit": {"password": "1234"},
-    "Himanshu": {"password": "1234"},
-    "Rahul": {"password": "1234"},
     }
 
 ADMIN_USER = "admin"
